@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://srijankdev.netlify.app/](https://srijankdev.netlify.app/)
 
-- 💬 Ask me about **DSA, React. CP**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **20srijan.kumar@gmail.com**
 
