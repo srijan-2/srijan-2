@@ -40,6 +40,6 @@
 
 ### Contributions
 
-[![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=srijan-2&"](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srijan-2&starting_year=2017&theme=dark)](https://git.io/streak-stats)
 
 #### This is just the beginning... Stay tuned for more projects and updates!
