@@ -10,8 +10,8 @@
 - Experience in building intelligent systems using Machine Learning and AI
 
 ### Tools of the Trade
-- Languages: Python, C++, SQL, HTML, CSS
-- Frameworks: React, Flask
+- Languages: Python, C++, JAVA,  SQL, HTML, CSS
+- Frameworks: Spring Boot, Apache Camel, TensorFlow, Keras, Flask, Pandas
 - Databases:  MySQL
 - Tools: Git, GitHub, VS Code, ChatGPT
 - Specialties: Machine Learning, AI, Competitive Programming
